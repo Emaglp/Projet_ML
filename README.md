@@ -1,4 +1,4 @@
-Pour ce projet, deux notebooks similaires ont été rédigés : un en R et l’autre en Python. Le notebook rédigé en R contient l'entièreté de nos analyses. Celui en Python contient le code ainsi que des analyses minimales.
+Pour ce projet, deux notebooks similaires ont été rédigés : un en R et l’autre en Python. Le notebook rédigé en R contient l'entièreté de nos analyses (Projet_ML_Gpe11_R.ipynb). Celui en Python contient le code ainsi que des analyses minimales.
 
 Les données sont issues du site du concours KAGGLE; il s’agit du jeu de données " Gym Members Exercise Dataset" disponible ici : https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset. Ce jeu de données fournit un aperçu détaillé des routines d’exercice, des attributs physiques et des mesures de la condition physique des membres d’une salle de sport. Il contient 15 variables observées chez 973 individus fréquentant une salle de sport :
 
